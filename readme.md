@@ -10,7 +10,7 @@ Construido usando tecnologias modernas: Node.js, Express, MongoDB, Mongoose e et
 
 ## Com este projeto aprendi e adquire algumas habilidades como:
 
-- Criar uma API RESTful rápida, escalável e rica em recursos (inclui filtros, classificações, paginação e muito mais)
+- Criar uma API RESTful rápida, escalável e rica em recursos (inclui filtros, classificações, paginação etc.)
 - Aprender como o Node realmente funciona nos bastidores: loop de eventos, código de bloqueio vs não bloqueante, fluxos, módulos, etc.
 - Operações CRUD com MongoDB e Mongoose
 - Arquitetura MVC
