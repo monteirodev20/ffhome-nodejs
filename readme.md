@@ -36,6 +36,8 @@ Divirta-se :)
 
 Nota: O front-end será reconstruido com React em breve.
 
-![Captura-do-app.png](public/img/Captura-do-app.png)
+### Preview
+<!-- ![Captura-do-app.png](public/img/Captura-do-app.png) -->
+<a href="https://farfromhome.herokuapp.com/"><img src="public/img/Captura-do-app.png" class="media-object  img-responsive img-thumbnail" width="550px"></a>
 
 
