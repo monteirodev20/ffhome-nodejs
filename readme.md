@@ -1,7 +1,7 @@
 # ffHome Application
 
-Far From Home é um webApp para turismo, Onde o usuário pode:
-- Criar usa conta e atualizar dados e carregar foto do perfil 
+Far From Home é um lindo webApp para turismo, Onde o usuário pode:
+- Criar usa conta, atualizar dados e carregar foto do perfil 
 - Desativar conta ( Recurso disponivel no front-end em breve)
 - Comprar passeios
 - Comentar e avaliar ( Recurso disponivel no front-end em breve )
