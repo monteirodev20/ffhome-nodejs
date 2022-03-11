@@ -33,6 +33,8 @@ Para o cartão de credito de preferência usar:
 
 Divirta-se :)
 
-Nota: O front-end será reconstruido com React em breve!
+Nota: O front-end será reconstruido com React em breve.
+
+![Captura-do-app.png](public/img/Captura-do-app.png)
 
 
