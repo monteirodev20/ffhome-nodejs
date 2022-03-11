@@ -6,7 +6,11 @@ Far From Home é um lindo webApp para turismo, Onde o usuário pode:
 - Comprar passeios
 - Comentar e avaliar ( Recurso disponivel no front-end em breve )
 
-Construido usando tecnologias modernas: Node.js, Express, MongoDB, Mongoose e etc.
+## Construido usando tecnologias modernas: 
+- Node.js 
+- Express 
+- MongoDB 
+- Mongoose e etc.
 
 ## Com este projeto aprendi e adquire algumas habilidades como:
 
