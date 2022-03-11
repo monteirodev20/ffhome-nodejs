@@ -25,4 +25,4 @@ Pagamentos com cartão de crédito com Stripe
 
 Envio de e-mails e upload de arquivos e muito mais...
 
-sinta-se a vontade para testar o App, criar uma conta [farfromhome](farfromhome.herokuapp.com)
+Sinta-se a vontade para testar o App -> [farfromhome](farfromhome.herokuapp.com)
