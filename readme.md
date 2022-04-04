@@ -26,7 +26,8 @@ Segurança: criptografia, sanitização, limitação de taxa, etc.
 - Pagamentos com cartão de crédito com Stripe
 - Envio de e-mails e upload de arquivos e muito mais...
 
-### Sinta-se a vontade para testar o App [farfromhome](https://farfromhome.herokuapp.com/)
+### Sinta-se a vontade para testar o App <a href="https://farfromhome.herokuapp.com/" target="_blank" rel="noopener"><span>farfromhome</span> </a>.
+
 Você pode criar a sua conta ou usar este usário:
 - Usuário: chris@example.com
 - Senha: test1234
@@ -42,6 +43,6 @@ Nota: O front-end será reconstruido com React em breve.
 
 ### Preview
 <!-- ![Captura-do-app.png](public/img/Captura-do-app.png) -->
-<a href="https://farfromhome.herokuapp.com/"><img src="public/img/Captura-do-app.png" class="media-object  img-responsive img-thumbnail" width="550px"></a>
+<a href="https://farfromhome.herokuapp.com/" target="_blank" rel="noopener noreferrer"><img src="public/img/Captura-do-app.png" class="media-object  img-responsive img-thumbnail" width="550px"></a>
 
 
